@@ -1,0 +1,3 @@
+/home/luhyxi/CLionProjects/LinguagemNeutra/cmake-build-debug/CMakeFiles/LinguagemNeutra.dir
+/home/luhyxi/CLionProjects/LinguagemNeutra/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/luhyxi/CLionProjects/LinguagemNeutra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
